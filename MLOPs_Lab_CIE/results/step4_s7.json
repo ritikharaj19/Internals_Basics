@@ -1,0 +1,6 @@
+{
+  "model_name": "fleettrack-fuel-cost",
+  "version": "v1",
+  "stage": "Production",
+  "transition_reason": "Lowest RMSE model selected"
+}

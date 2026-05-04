@@ -1,0 +1,7 @@
+{
+  "feature_name": "trip_distance_km",
+  "training_mean": 265.49999999999994,
+  "production_mean": 656.905,
+  "absolute_shift": 391.40500000000003,
+  "drift_detected": true
+}

@@ -1,0 +1,23 @@
+{
+  "total_predictions": 50,
+  "mean_prediction": 3424.6939950000005,
+  "drift_detected": true,
+  "alerts": [
+    {
+      "feature": "trip_distance_km",
+      "train_mean": 265.5,
+      "live_mean": 656.9,
+      "shift": 391.41,
+      "threshold": 135.53,
+      "status": "ALERT"
+    },
+    {
+      "feature": "load_weight_tons",
+      "train_mean": 6.17,
+      "live_mean": 12.15,
+      "shift": 5.98,
+      "threshold": 2.66,
+      "status": "ALERT"
+    }
+  ]
+}

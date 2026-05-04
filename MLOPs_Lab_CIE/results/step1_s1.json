@@ -1,0 +1,20 @@
+{
+  "experiment_name": "fleettrack-fuel-cost",
+  "models": [
+    {
+      "name": "Lasso",
+      "mae": 560.9745679837988,
+      "rmse": 638.3893757708754,
+      "r2": 0.6756928918954539
+    },
+    {
+      "name": "RandomForest",
+      "mae": 464.9238799999991,
+      "rmse": 591.2336875239977,
+      "r2": 0.721834343605386
+    }
+  ],
+  "best_model": "RandomForest",
+  "best_metric_name": "rmse",
+  "best_metric_value": 591.2336875239977
+}
